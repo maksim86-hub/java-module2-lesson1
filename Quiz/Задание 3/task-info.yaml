@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 1
+    is_correct: false
+  - text: 2
+    is_correct: false
+  - text: 3
+    is_correct: false
+  - text: 4
+    is_correct: true
+files:
+  - name: src/Question3.java
+    visible: true
+local_check: true
